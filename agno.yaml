@@ -1,0 +1,7 @@
+name: hospital_agent
+tools:
+  - tools.check_bed
+  - tools.find_doctor
+  - tools.book_appointment
+  - tools.send_email
+  - agent.gemini_text
